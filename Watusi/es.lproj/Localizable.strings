@@ -376,9 +376,9 @@
 "ENABLE_APP_TINTCOLOR_LABEL" = "Habilitar el color del tinte de la aplicación";
 "APP_TINTCOLOR_LABEL" = "Color del tinte de la aplicación";
 
-"MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
-"MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
-"MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
+"MESSAGES_TEXT_COLORS_TITLE" = "Colores en mensajes de texto";
+"MESSAGES_BACKGROUND_COLORS_TITLE" = "Colores de fondo en mensajes";
+"MESSAGES_STATUS_COLORS_TITLE" = "Color de items en mensajes";
 
 "ENABLE_FONT_STYLE_LABEL" = "Habilitar estilo de fuente";
 

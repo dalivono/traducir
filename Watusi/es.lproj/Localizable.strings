@@ -398,7 +398,7 @@
 "MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Color del estado mensaje entregado";
 "MESSAGE_STATUS_READ_COLOR_LABEL" = "Color del estado mensaje leido";
 
-"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
+"STARRED_MESSAGE_ICON_COLOR_LABEL" = "Color indicador de mensaje estrellado";
 
 "CHAT_URL_COLOR_LABEL" = "Color de la URL del chat";
 "TEXT_INPUT_COLOR_LABEL" = "Color de texto de entrada";

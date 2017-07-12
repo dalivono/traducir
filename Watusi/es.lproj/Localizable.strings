@@ -394,9 +394,9 @@
 "INCOMING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora del chat entrante";
 "OUTGOING_CHAT_TIMESTAMP_COLOR_LABEL" = "Color de la hora del chat saliente";
 
-"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Message Status Sent Color";
-"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Message Status Delivered Color";
-"MESSAGE_STATUS_READ_COLOR_LABEL" = "Message Status Read Color";
+"MESSAGE_STATUS_SENT_COLOR_LABEL" = "Color del estado mensaje enviado";
+"MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Color del estado mensaje entregado";
+"MESSAGE_STATUS_READ_COLOR_LABEL" = "Color del estado mensaje leido";
 
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Starred Message Indicator Color";
 

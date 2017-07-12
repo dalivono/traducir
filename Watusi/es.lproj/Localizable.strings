@@ -341,7 +341,8 @@
 "HIDE_CHAT_CONTACT_PICTURE_LABEL" = "Ocultar imagen del perfil";
 
 "HIDE_CHAT_CALL_BUTTONS_DESC" = "Ocultar los botones de llamada de los chats.";
-"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de voz";"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de video";
+"HIDE_CHAT_VOICE_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de voz";
+"HIDE_CHAT_VIVDEO_CALL_BUTTON_LABEL" = "Ocultar botón de llamada de video";
 
 "FULLSCREEN_MODE_DESC" = "Ocultar la barra de estado dentro de WhatsApp.";
 "FULLSCREEN_MODE_LABEL" = "Modo de pantalla completa";
@@ -351,6 +352,7 @@
 
 
 /* Notifications */
+
 "NOTIFICATIONS_LABEL" = "Notificaciones";
 
 "PRIVATE_NOTIFICATION_DESC" = "Reemplace todo el contenido de notificaciones de WhatsApp con un mensaje específico para proteger su privacidad.\nTambién puede dejarlo en blanco.";
@@ -362,6 +364,7 @@
 
 "HIDE_MUTED_BADGES_DESC" = "Ocultar badges de WhatsApp para chats y grupos silenciados.";
 "HIDE_MUTED_BADGES_LABEL" = "Ocultar badges Silenciados";
+
 "CONTACT_ICON_NOTIFICATIONS_DESC" = "Reemplazar el icono de WhatsApp en las notificaciones por la foto de perfil de contacto";
 "CONTACT_ICON_NOTIFICATION_LABEL" = "Icono de Notificación";
 
@@ -372,6 +375,7 @@
 
 "ENABLE_APP_TINTCOLOR_LABEL" = "Habilitar el color del tinte de la aplicación";
 "APP_TINTCOLOR_LABEL" = "Color del tinte de la aplicación";
+
 "MESSAGES_TEXT_COLORS_TITLE" = "Messages Text Colors";
 "MESSAGES_BACKGROUND_COLORS_TITLE" = "Messages Background Colors";
 "MESSAGES_STATUS_COLORS_TITLE" = "Messages Status Items";
@@ -381,7 +385,8 @@
 "CHAT_FONTNAME_LABEL" = "Nombre de fuente del chat";
 "FONTS_LABEL" = "Fuentes";
 
-"BUBBLE_TEXT_SIZE_LABEL" = "Tamaño del texto en burbuja";"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamaño nombre del contacto...";
+"BUBBLE_TEXT_SIZE_LABEL" = "Tamaño del texto en burbuja";
+"BUBBLE_NAME_TEXT_SIZE_LABEL" = "Tamaño nombre del contacto...";
 
 "INCOMING_CHAT_TEXT_COLOR_LABEL" = "Color del texto del chat entrante";
 "OUTGOiNG_CHAT_TEXT_COLOR_LABEL" = "Color del texto del chat saliente";
@@ -392,6 +397,7 @@
 "MESSAGE_STATUS_SENT_COLOR_LABEL" = "Color del estado mensaje enviado";
 "MESSAGE_STATUS_DELIVERED_COLOR_LABEL" = "Color del estado mensaje entregado";
 "MESSAGE_STATUS_READ_COLOR_LABEL" = "Color del estado mensaje leido";
+
 "STARRED_MESSAGE_ICON_COLOR_LABEL" = "Color indicador de mensaje estrellado";
 
 "CHAT_URL_COLOR_LABEL" = "Color de la URL del chat";
@@ -401,7 +407,8 @@
 "OUTGOING_BUBBLE_BG_COLOR_LABEL" = "Color de la burbuja saliente BG";
 "COLOR" = "Color";
 
-"ENABLE_BUBBLE_OPACITY_LABEL" = "Habilitar opacidad de las burbujas";"INCOMING_BUBBLE_OPACITY_LABEL" = "Opacidad de la burbuja entrante";
+"ENABLE_BUBBLE_OPACITY_LABEL" = "Habilitar opacidad de las burbujas";
+"INCOMING_BUBBLE_OPACITY_LABEL" = "Opacidad de la burbuja entrante";
 "OUTGOING_BUBBLE_OPACITY_LABEL" = "Opacidad de la burbuja saliente";
 
 "KEYBOARD_STYLE_DESC" = "Estilo del Teclado";
@@ -412,6 +419,7 @@
 
 
 /* Contacts Blacklist */
+
 "CONTACTS_BLACKLIST_LABEL" = "Lista negra de contactos";
 "CONTACTS_BLACKLIST_DESC" = "Los contactos de lista negra ocultarán su chat de la lista de chats y mostrarán un chat vacío cuando lo abran desde otro lugar. Sólo puede ver el contenido de chats en la página de lista negra. No recibirás notificaciones de nuevos mensajes de chats en lista negra.";
 "BLACKLISTED_CONTACTS" = "Contactos en la lista negra";
@@ -422,6 +430,7 @@
 
 
 /* Auto Reply */
+
 "AUTO_REPLY_LABEL" = "Auto respuesta";
 "AUTO_REPLY_ENABLE_LABEL" = "Habilitar";
 "AUTO_REPLY_DESC" = "Cuando está activado, siempre que reciba un mensaje de un contacto, Watusi responderá automáticamente con el mensaje elegido.";
@@ -431,7 +440,8 @@
 "AUTO_REPLY_MESSAGE_LABEL" = "Mensaje de respuesta";
 "AUTO_REPLY_SELECT_MESSAGE" = "Seleccione un mensaje";
 "AUTO_REPLY_MESSAGES_TITLE" = "Mensajes";
-"AUTO_REPLY_NO_MESSAGES_FOOTER" = "No tiene mensajes de respuesta automática, cree uno con el botón +.";"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "Deslice o pulsación prolongada para editar un mensaje.";
+"AUTO_REPLY_NO_MESSAGES_FOOTER" = "No tiene mensajes de respuesta automática, cree uno con el botón +.";
+"AUTO_REPLY_EDIT_MESSAGE_FOOTER" = "Deslice o pulsación prolongada para editar un mensaje.";
 "AUTO_REPLY_MESSAGES_EDIT_MESSAGE" = "Editar mensaje";
 "AUTO_REPLY_MESSAGES_NEW_MESSAGE" = "Nuevo mensaje";
 "AUTO_REPLY_MESSGAES_EMPTY_TEXT" = "El mensaje no puede estar vacío.";
@@ -441,7 +451,8 @@
 "AUTO_REPLY_DELAY_NONE" = "Sin retraso";
 "AUTO_REPLY_DELAY_ONE_MINUTE" = "1 minuto";
 "AUTO_REPLY_DELAY_FIVE_MINUTES" = "5 minutos";
-"AUTO_REPLY_DELAY_THIRTY_MINUTES" = "30 minutos";"AUTO_REPLY_DELAY_ONE_HOUR" = "1 hora";
+"AUTO_REPLY_DELAY_THIRTY_MINUTES" = "30 minutos";
+"AUTO_REPLY_DELAY_ONE_HOUR" = "1 hora";
 
 "AUTO_REPLY_ON_LABEL" = "Responder en";
 "AUTO_REPLY_TIME_RANGE_LABEL" = "Intervalo de tiempo";
@@ -451,6 +462,7 @@
 "AUTO_REPLY_TIME_RANGE_END_TIME" = "Hora de finalización";
 "AUTO_REPLY_TIME_RANGE_WEEK_DAYS" = "Días de la semana";
 "AUTO_REPLY_TIME_RANGE_ALL_WEEK_DAYS" = "Todos los Días de la semana";
+
 "AUTO_REPLY_TO_LABEL" = "Responder a";
 "AUTO_REPLY_TO_GROUPS_LABEL" = "Responder a Grupos";
 "AUTO_REPLY_FILTER_LABEL" = "Filtro de respuesta";
@@ -461,6 +473,7 @@
 
 
 /* Scheduled Messages */
+
 "MESSAGE_SCHEDULER_LABEL" = "Mensajes programados";
 "MESSAGE_SCHEDULER_ENABLE_LABEL" = "Activar";
 
@@ -471,6 +484,7 @@
 "MESSAGE_SCHEDULER_CREATE_RECIPIENTS" = "Destinatarios";
 "MESSAGE_SCHEDULER_CREATE_MESSAGE" = "Mensaje";
 "MESSAGE_SCHEDULER_CREATE_IMAGE" = "Imagen";
+
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Mostrar una notificaciòn cuando el mensaje se envia a los destinatarios de la programados.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Mostrar notificacion";
 "MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";

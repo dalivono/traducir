@@ -15,7 +15,7 @@
 "READ_RECEIPTS_DESC" = "Desactivar marcado de lectura pero seguir viendo los marcados de sus contactos. Se puede activar/desactivar los marcados de lectura para contactos especificos para forzar/nunca o seleccionarlo en su perfil.";
 "NEVER_SEND_RECEIPTS_TO" = "Nunca enviar recibidos a...";
 "FORCE_SEND_RECEIPTS_TO" = "Forzar enviar recibidos a...";
-"FORCE_VOICE_MESSAGES_RECEIPTS" = "Force Send Voice Receipts";
+"FORCE_VOICE_MESSAGES_RECEIPTS" = "Forzar el envio de recibos de voz";
 "FORCE_RECEIPTS_ON" = "Forzar recibidos...";
 "FORCE_RECEIPTS_ON_MESSAGE_SENT" = "Mensaje enviado";
 "FORCE_RECEIPTS_ON_START_TYPING" = "Escribiendo";
@@ -487,7 +487,7 @@
 
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_DESC" = "Mostrar una notificaciòn cuando el mensaje se envia a los destinatarios de la programados.";
 "MESSAGE_SCHEDULER_SHOW_NOTIFICATION_LABEL" = "Mostrar notificacion";
-"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Sending Scheduled Message";
+"MESSAGE_SCHEDULER_SENDING_NOTIFICATION_MESSAGE" = "Envío de mensajes programados";
 
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_DESC" = "Habilitar el gesto de presion larga en el botòn de envio de chats para programar directamente un mensaje de los chats.";
 "MESSAGE_SCHEDULER_SEND_LONGPRESS_LABEL" = "Presion larga para enviar";
